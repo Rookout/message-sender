@@ -6,7 +6,7 @@ standard_input.setEncoding('utf-8');
 setInterval(() => {
     console.log(6)
 }
-, 200);
+, 1000);
 
 standard_input.on('data', data => process.exit());
 
