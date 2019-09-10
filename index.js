@@ -14,6 +14,7 @@ const tasks = [
 ];
 
 setInterval(() => {
+    this.tasks = tasks;
     console.log(6)
 }
 , 1000);
