@@ -17,7 +17,7 @@ setInterval(() => {
     this.tasks = tasks;
     console.log(6)
 }
-, 1000);
+, 2000);
 
 standard_input.on('data', data => process.exit());
 
