@@ -1,4 +1,6 @@
-require('rookout/auto_start');
+const rookout = require('rookout');
+
+rookout.start();
 
 const standard_input = process.stdin;
 standard_input.setEncoding('utf-8');
