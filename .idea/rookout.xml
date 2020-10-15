@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="rookout">
+    <option name="eulaAgree" value="true" />
+    <option name="token" value="rookout_session=.eJwdzt1ugjAYANBXWXrtEmgpQhMvZnCEi68NRkK-3hit_HV0LioR63z3JTtPcJ5k316aa0_E7TI1C7IfTkQ8yduRCAIUOfqPWed6kE46lVWz9AWXvnsg3fZqV4bgPi1km1DlOEvbReirSOba6mztwGknfRWiHa22yNCaB_r1KB16lW8estZf0pUzuG0PvmA6M3eVF3fYnSzUxYxUD9p2XNIqUPnW6az0UFcz-NGqehNhjRxcycHCirwWZLo2l_8_-RmnbvgWojufu7F5Px-mW09_w4ClyTJJ05hSypYsoGEaCRFT0xpDg_gYtyyJWtbGpyg-cm6SwNDmQF5_-2Verw.Xh8q6A.6NKDNX05QghiHZBcxaAm8eq2p3Y; Domain=.rookout.com; Secure; HttpOnly; Path=/; SameSite=Lax" />
+    <option name="currentOrgName" value="Dan" />
+    <option name="userId" value="google-oauth2|103987899622237302194" />
+    <option name="currentWorkspaceName" value="messages" />
+    <option name="workspacesNamesToIds">
+      <map>
+        <entry key="Another" value="7685aa34e9434bd792fc3b86ddc57687" />
+        <entry key="My-first-project-#1" value="b5bc6f75dd9d4df396c42225b980b253" />
+        <entry key="messages" value="3a8e0ab6472e4b27b888e4dffe3b2eda" />
+      </map>
+    </option>
+    <option name="orgNamesToIds">
+      <map>
+        <entry key="Dan" value="eef46f1abaf24865b32410f3ac630c87" />
+        <entry key="Sandbox" value="2ca05c3e7f9948b49ee493f8063ed69f" />
+        <entry key="demo" value="7ae6fe800f354cfaaf3b63af5104abce" />
+      </map>
+    </option>
+  </component>
+</project>

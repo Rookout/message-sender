@@ -1,4 +1,5 @@
 const rookout = require('rookout');
+const hey = require('./folder/inside/folder/hey.js');
 
 rookout.start();
 
@@ -17,6 +18,7 @@ const tasks = [
 
 setInterval(() => {
     this.tasks = tasks;
+    hey();
     console.log(6)
 }
 , 2000);
