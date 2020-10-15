@@ -31,11 +31,6 @@ base64-js@^1.0.2:
   resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-1.3.1.tgz#58ece8cb75dd07e71ed08c736abc5fac4dbf8df1"
   integrity sha512-mLQ4i2QO1ytvGWFWmcngKO//JXAQueZvwEKtjgQFM4jIK0kU+ytMfplL8j+n5mspOfjHwoAg+9yhb7BwAHm36g==
 
-batcher-js@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/batcher-js/-/batcher-js-1.0.3.tgz#2ef063bcbef472f5139ba3e96dbfe0995c0a20ce"
-  integrity sha512-7AlbNWWNM4asd7QFpmdhaAmBpKa2u0PVzgfSo1cJZL6MACoG1UgtwxBquCuf5Wf36qDl6EKZbdBqn32Gs9q20w==
-
 buffer-from@^1.0.0, buffer-from@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
@@ -120,12 +115,7 @@ lock@^1.1.0:
   resolved "https://registry.yarnpkg.com/lock/-/lock-1.1.0.tgz#53157499d1653b136ca66451071fca615703fa55"
   integrity sha1-UxV0mdFlOxNspmRRBx/KYVcD+lU=
 
-lodash@^4.17.10:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
-
-lodash@^4.17.20:
+lodash@^4.17.10, lodash@^4.17.20:
   version "4.17.20"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
@@ -140,7 +130,7 @@ resolve-url@^0.2.1:
   resolved "https://registry.yarnpkg.com/resolve-url/-/resolve-url-0.2.1.tgz#2c637fe77c893afd2a663fe21aa9080068e2052a"
   integrity sha1-LGN/53yJOv0qZj/iGqkIAGjiBSo=
 
-rookout@^0.1.107:
+rookout@^0.1.70:
   version "0.1.107"
   resolved "https://registry.yarnpkg.com/rookout/-/rookout-0.1.107.tgz#1cbafcb11e4535bedbea23c072b31ae4e4559162"
   integrity sha512-rjRDu9KQ+tQiuTuCYdo2VaMEQTLlUQYFB12TebOvmD39nNB8thWeooe++/UD9ykK+HBCN54dR1kDJuASzCMdVA==
